@@ -1,0 +1,3 @@
+group { 'sudo': 
+ensure => 'present'
+}
